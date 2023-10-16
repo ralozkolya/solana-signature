@@ -1,0 +1,19 @@
+{
+  "name": "solana-signature",
+  "version": "0.1.0",
+  "description": "Script to generate SOL message signatures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralozkolya/solana-signature.git"
+  },
+  "author": "Nikoloz Razmadze <nikoloz@razmadze.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralozkolya/solana-signature/issues"
+  },
+  "homepage": "https://github.com/ralozkolya/solana-signature#readme"
+}
